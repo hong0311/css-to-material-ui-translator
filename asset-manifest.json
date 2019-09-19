@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/css-to-material-ui/static/css/main.ba49ec77.chunk.css",
-    "main.js": "/css-to-material-ui/static/js/main.8539651d.chunk.js",
-    "main.js.map": "/css-to-material-ui/static/js/main.8539651d.chunk.js.map",
-    "runtime~main.js": "/css-to-material-ui/static/js/runtime~main.d89444f9.js",
-    "runtime~main.js.map": "/css-to-material-ui/static/js/runtime~main.d89444f9.js.map",
-    "static/js/2.f0ed2185.chunk.js": "/css-to-material-ui/static/js/2.f0ed2185.chunk.js",
-    "static/js/2.f0ed2185.chunk.js.map": "/css-to-material-ui/static/js/2.f0ed2185.chunk.js.map",
-    "index.html": "/css-to-material-ui/index.html",
-    "precache-manifest.6d26b4fe0f38dafebd5d64dd5aefa8c5.js": "/css-to-material-ui/precache-manifest.6d26b4fe0f38dafebd5d64dd5aefa8c5.js",
-    "service-worker.js": "/css-to-material-ui/service-worker.js",
-    "static/css/main.ba49ec77.chunk.css.map": "/css-to-material-ui/static/css/main.ba49ec77.chunk.css.map",
-    "static/media/logo.svg": "/css-to-material-ui/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/css-to-material-ui-translator/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/css-to-material-ui-translator/static/js/main.74916028.chunk.js",
+    "main.js.map": "/css-to-material-ui-translator/static/js/main.74916028.chunk.js.map",
+    "runtime~main.js": "/css-to-material-ui-translator/static/js/runtime~main.077f2fba.js",
+    "runtime~main.js.map": "/css-to-material-ui-translator/static/js/runtime~main.077f2fba.js.map",
+    "static/js/2.f0ed2185.chunk.js": "/css-to-material-ui-translator/static/js/2.f0ed2185.chunk.js",
+    "static/js/2.f0ed2185.chunk.js.map": "/css-to-material-ui-translator/static/js/2.f0ed2185.chunk.js.map",
+    "index.html": "/css-to-material-ui-translator/index.html",
+    "precache-manifest.06b0ee85bad2cf4f311ee17679f59f6a.js": "/css-to-material-ui-translator/precache-manifest.06b0ee85bad2cf4f311ee17679f59f6a.js",
+    "service-worker.js": "/css-to-material-ui-translator/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/css-to-material-ui-translator/static/css/main.ba49ec77.chunk.css.map",
+    "static/media/logo.svg": "/css-to-material-ui-translator/static/media/logo.ee7cd8ed.svg"
   }
 }
