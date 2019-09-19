@@ -5,7 +5,7 @@ import { withStyles, TextField, Typography } from '@material-ui/core';
 
 
 function translate(string){
-  return `${string.replace(/-./g, c => c[1].toUpperCase()).replace(/(: *)/g, `: "`).replace(/( *;)/g, `",`)}`;
+  return `${string.replace(/-./g, c => c[1].toUpperCase()).replace(/(: *)/g, `: \``).replace(/( *;)/g, `\`,`)}`;
 }
 
 function App(props) {
